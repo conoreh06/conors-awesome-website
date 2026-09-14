@@ -1,7 +1,8 @@
 step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
 paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
 1,guaman-poma-nueva,0.5,0.5,1,,What is this image?,"This is an image of an Incan young woman from the Sixth ""Street"" group herding a group of llamas. ",,Learn more,conors-awesome-story-what-was-the.md,Go deeper,conors-awesome-story-how-was-the.md,,,
-2,guaman-poma-nueva,0.34550186162212954,0.542207647440359,1.9654411764705881,,What is this?,This is a llama,,,,,,,,
-3,guaman-poma-nueva,0.6724333154728614,0.8579580560395955,1.9654411764705881,,Is this a dog?,Prolly,,,,,,,,
-4,guaman-poma-nueva,0.5139330604050916,0.5597612485107238,1.9654411764705881,,Who is this?,This is a young Incan woman around the age of 12.,,,,,,,,
-5,guaman-poma-nueva,0.5,0.5,1,,What was this image used for?,"This image was used as a handwritten manuscript, illustrated by  Felipe Guamán Poma de Ayala, to give a historical account of the Andes. ",,,,,,,,
+2,guaman-poma-nueva,0.47666793317905454,0.3825891290915182,1.9654411764705881,,Why is her hair so short?,"The Incas kept their hair short around this time period as it allowed them to mark this intermediate period of their lives. ",,,,,,,,
+3,guaman-poma-nueva,0.34550186162212954,0.542207647440359,1.9654411764705881,,What is this?,This is a llama,,,,,,,,
+4,guaman-poma-nueva,0.6724333154728614,0.8579580560395955,1.9654411764705881,,Is this a dog?,Prolly,,,,,,,,
+5,guaman-poma-nueva,0.5139330604050916,0.5597612485107238,1.9654411764705881,,Who is this?,This is a young Incan woman around the age of 12.,,,,,,,,
+6,guaman-poma-nueva,0.5,0.5,1,,What was this image used for?,"This image was used as a handwritten manuscript, illustrated by  Felipe Guamán Poma de Ayala, to give a historical account of the Andes. ",,,,,,,,
